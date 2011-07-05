@@ -6,7 +6,6 @@ TARGET  = libzlib.a
 DEST	= ./
 LIBS	= 
 CFLAGS	= -Wall -g -O0
-LDFLAGS =
 ARFLAGS = rc
 
 SRCS=\
